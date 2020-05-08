@@ -5,7 +5,7 @@ For this task 2 VMs are used:
 2. Kali Linux VM (192.168.3.153)
 
 ## Install Suricata
-For installing suricata (and suricata debugger) in the Ubuntu VMthe following commands are executed in order:
+For installing suricata (and suricata debugger) in the Ubuntu VM the following commands are executed in order:
 
         sudo add-apt-repository ppa:oisf/suricata-stable
         sudo apt update && sudo apt upgrade -y
